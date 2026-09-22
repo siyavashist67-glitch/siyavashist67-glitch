@@ -4040,14 +4040,25 @@
                calcMode="spline" keySplines="0.2 0 0.2 1" />
     </rect>
 
-    <rect x="756" y="38" width="11" height="11" rx="2" ry="2" class="hm-empty"
+    <rect x="756" y="38" width="11" height="11" rx="2" ry="2" fill="#39d353"
           opacity="0" transform="translate(-6,-6)">
-      <title>No contributions on 2026-09-21</title>
+      <title>1 contributions on 2026-09-21</title>
       <animate attributeName="opacity" from="0" to="1"
                begin="0.530s" dur="0.35s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate"
                from="-6 -6" to="0 0"
                begin="0.530s" dur="0.35s" fill="freeze"
+               calcMode="spline" keySplines="0.2 0 0.2 1" />
+    </rect>
+
+    <rect x="756" y="52" width="11" height="11" rx="2" ry="2" class="hm-empty"
+          opacity="0" transform="translate(-6,-6)">
+      <title>No contributions on 2026-09-22</title>
+      <animate attributeName="opacity" from="0" to="1"
+               begin="0.540s" dur="0.35s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate"
+               from="-6 -6" to="0 0"
+               begin="0.540s" dur="0.35s" fill="freeze"
                calcMode="spline" keySplines="0.2 0 0.2 1" />
     </rect>
 
@@ -4060,5 +4071,5 @@
 <rect x="721" y="139" width="11" height="11" rx="2" ry="2" fill="#69f0a0" />
   <text class="hm-text" x="740" y="148" font-family="'SF Mono',monospace" font-size="10">More</text>
 
-  <text class="hm-text" x="28" y="172" font-family="'SF Mono',monospace" font-size="11">49 contributions in the last year  ·  current streak 0d  ·  longest streak 7d</text>
+  <text class="hm-text" x="28" y="172" font-family="'SF Mono',monospace" font-size="11">50 contributions in the last year  ·  current streak 0d  ·  longest streak 8d</text>
 </svg>
